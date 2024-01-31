@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hola a todos! Soy Pablo Fuenzalida 👋
 
 <!--
 **BlopaFu/BlopaFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Trabajo en Bredenmaster, como asesor técnico y fidelización de clientes.
+<img src="https://bredenmaster.com/cdn/shop/files/logo_c6f8b3ab-3c8f-4bb4-9651-10b2b58da8c0_1204x630.png?v=1638208326">
+Entrando en el mundo cibernético.
 
 Here are some ideas to get you started:
 
